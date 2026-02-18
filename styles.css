@@ -694,6 +694,8 @@ section {
     align-items: center;
     padding: 2rem;
     color: white;
+    text-decoration: none;
+    cursor: pointer;
 }
 
 .contact-item i {
